@@ -43,9 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculator.cs" />
+    <Compile Include="First\SimpleMath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Second\Calculator.cs" />
+    <Compile Include="Second\ICalculator.cs" />
+    <Compile Include="Second\IMathLibrary.cs" />
+    <Compile Include="Second\MathLibrary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

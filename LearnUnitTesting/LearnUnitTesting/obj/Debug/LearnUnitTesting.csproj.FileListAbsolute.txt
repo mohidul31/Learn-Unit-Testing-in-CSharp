@@ -1,0 +1,7 @@
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\bin\Debug\LearnUnitTesting.exe.config
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\bin\Debug\LearnUnitTesting.exe
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\bin\Debug\LearnUnitTesting.pdb
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\obj\Debug\LearnUnitTesting.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\obj\Debug\LearnUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\obj\Debug\LearnUnitTesting.exe
+C:\Users\Lenovo-PC\source\repos\Learn-Unit-Testing-in-CSharp\LearnUnitTesting\LearnUnitTesting\obj\Debug\LearnUnitTesting.pdb
